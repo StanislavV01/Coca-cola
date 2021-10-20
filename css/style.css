@@ -1112,12 +1112,12 @@ h6 {
 .snowflake {
   width: 447px;
   height: 448px;
-  margin-left: -204px;
-  margin-top: -68px;
+  left: -224px;
+  top: 351.77px;
   -webkit-transform: rotate(-10.8deg);
       -ms-transform: rotate(-10.8deg);
           transform: rotate(-10.8deg);
-  z-index: 1;
+  position: absolute;
 }
 
 .advantages {
